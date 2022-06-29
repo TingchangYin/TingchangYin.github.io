@@ -45,8 +45,8 @@ I am a PhD student in Westlake University now, under the supervision of [Prof. S
 
 ### Education
 - Sep 2020 - present, PhD student in Environmental Science and Engineering, Westlake University, Zhejiang, China (a joint program with Zhejiang University, China)
-- Sep 2017 - Dec 2019, MSc in Mining, Guangxi University, Guangxi, China
-- Sep 2013 - Jun 2017, BSc, Guangxi University, Guangxi, China
+- Sep 2017 - Dec 2019, MEng in Mining, Guangxi University, Guangxi, China
+- Sep 2013 - Jun 2017, BEng in Mining, Guangxi University, Guangxi, China
 
 ### Language
 - Mandarin
