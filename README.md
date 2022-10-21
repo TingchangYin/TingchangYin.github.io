@@ -61,6 +61,7 @@ I am a PhD student in Westlake University now, under the supervision of [Prof. S
 - C/C++/cuda
 - Matlab
 - Linux
+- Python
   
 ### Publications
 - [T Yin, T Man, SA Galindo-Torres. Universal scaling solution for the connectivity of discrete fracture networks (2022). Physica A: Statistical Mechanics and its Applications 599, 127495](https://www.sciencedirect.com/science/article/abs/pii/S0378437122003557)
