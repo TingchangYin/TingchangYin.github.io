@@ -41,7 +41,7 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 
 ## Welcome to Tingchang's page
 
-I am a PhD student in Westlake University now, under the supervision of [Prof. Sergio Torres](https://en-soe.westlake.edu.cn/OurSchool/Faculty/PI/201912/t20191206_2506.shtml). My research interests include: (i) simulation of flow and particle transport in fracture networks; (ii) GPU-acceleration with high performance computating; (iii) application of the percolation theory; and so on. I am developing an in-house CUDA C++ code, [_cuDFNsys_](https://github.com/qq1012510777/cuDFNsys), which is able to do: (i) discrete fracture network (DFN) representation, (ii) stead-state flow simulation in DFNs (with the mixed hybrid finite element method), and (iii) random walk particle movement (still debuging). The code aims at running Monte Carlo simulations with e.g. super computers, and has been released publicly.
+I am a PhD student in Westlake University now, under the supervision of [Prof. Sergio Torres](https://en-soe.westlake.edu.cn/OurSchool/Faculty/PI/201912/t20191206_2506.shtml). My research interests include: (i) simulation of flow and particle transport in fracture networks; (ii) GPU-acceleration with high performance computating; (iii) application of the percolation theory; and so on. I am developing an in-house CUDA C++ code, [_cuDFNsys_](https://github.com/qq1012510777/cuDFNsys), which is able to do: (i) discrete fracture network (DFN) representation, (ii) steady-state flow simulation in DFNs (with the mixed hybrid finite element method), and (iii) random walk particle movement. The code aims at running Monte Carlo simulations with e.g. super computers, and has been released publicly.
 
 ### Education
 - Sep 2020 - present, PhD student in Environmental Science and Engineering, Westlake University, Zhejiang, China (a joint program with Zhejiang University, China)
@@ -64,6 +64,7 @@ I am a PhD student in Westlake University now, under the supervision of [Prof. S
 - Python
   
 ### Publications
+- [T Yin, T Man, Ling Li, SA Galindo-Torres. Finite-Size Scaling for the Permeability of Discrete Fracture Networks (2023). Geophysical Research Letters, 50, e2022GL100837](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2022GL100837)
 - [T Yin, T Man, SA Galindo-Torres. Universal scaling solution for the connectivity of discrete fracture networks (2022). Physica A: Statistical Mechanics and its Applications 599, 127495](https://www.sciencedirect.com/science/article/abs/pii/S0378437122003557)
 - [T Yin, Q Chen. Simulation-based investigation on the accuracy of discrete fracture network (DFN) representation (2020). Computers and Geotechnics 121, 103487](https://www.sciencedirect.com/science/article/abs/pii/S0266352X20300501)
 - [Q Chen, T Yin. Modification of the rock mass rating system (RMRmbi) considering three-dimensional rock block size (2020). Bulletin of Engineering Geology and the Environment 79 (2), 789-810](https://link.springer.com/article/10.1007/s10064-019-01596-x)
