@@ -41,7 +41,7 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 
 ## Welcome to Tingchang's page
 
-I am a PhD student in Westlake University now, under the supervision of [Prof. Sergio Torres](https://en-soe.westlake.edu.cn/OurSchool/Faculty/PI/201912/t20191206_2506.shtml). My research interests include: (i) simulation of flow and particle transport in fracture networks; (ii) GPU-acceleration with high performance computating; (iii) application of the percolation theory; and so on. I am developing an in-house CUDA C++ code, [_cuDFNsys_](https://github.com/qq1012510777/cuDFNsys), which is able to do: (i) discrete fracture network (DFN) representation, (ii) steady-state flow simulation in DFNs (with the mixed hybrid finite element method), and (iii) random walk particle movement. The code aims at running Monte Carlo simulations with e.g. super computers, and has been released publicly.
+I am a PhD student in Westlake University, PR China now, under the supervision of [Prof. Sergio Torres](https://en-soe.westlake.edu.cn/OurSchool/Faculty/PI/201912/t20191206_2506.shtml). My research interests include: (i) simulation of flow and particle transport in fracture networks; (ii) GPU-acceleration with high performance computating; (iii) application of percolation theory; and so on. I am developing an open-source CUDA C++ code, [_cuDFNsys_](https://github.com/qq1012510777/cuDFNsys), which is able to do: (i) discrete fracture network (DFN) representations, (ii) steady-state flow simulations in DFNs (with the mixed hybrid finite element method), and (iii) particle tracking. The code aims at running Monte Carlo simulations with e.g. super computers, and has been released publicly.
 
 ### Education
 - Sep 2020 - present, PhD student in Environmental Science and Engineering, Westlake University, Zhejiang, China (a joint program with Zhejiang University, China)
@@ -56,9 +56,10 @@ I am a PhD student in Westlake University now, under the supervision of [Prof. S
 - Flow and transport in fractured media
 - High performance simulation
 - Statistic of geological fractures
+- Percolation theory
   
 ### Skills
-- C/C++/cuda
+- C/C++/CUDA
 - Matlab
 - Linux
 - Python
