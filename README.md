@@ -55,7 +55,7 @@ I am a PhD student in Westlake University, PR China now, under the supervision o
 ### Research Interests
 - Flow and transport in fractured media
 - High performance simulation
-- Statistic of geological fractures
+- Statistics of geological fractures
 - Percolation theory
   
 ### Skills
@@ -69,4 +69,7 @@ I am a PhD student in Westlake University, PR China now, under the supervision o
 - [T Yin, T Man, SA Galindo-Torres. Universal scaling solution for the connectivity of discrete fracture networks (2022). Physica A: Statistical Mechanics and its Applications 599, 127495](https://www.sciencedirect.com/science/article/abs/pii/S0378437122003557)
 - [T Yin, Q Chen. Simulation-based investigation on the accuracy of discrete fracture network (DFN) representation (2020). Computers and Geotechnics 121, 103487](https://www.sciencedirect.com/science/article/abs/pii/S0266352X20300501)
 - [Q Chen, T Yin. Modification of the rock mass rating system (RMRmbi) considering three-dimensional rock block size (2020). Bulletin of Engineering Geology and the Environment 79 (2), 789-810](https://link.springer.com/article/10.1007/s10064-019-01596-x)
+- [Q Chen, T Yin. Should the use of rock quality designation be discontinued in the rock mass rating system? (2019). Rock Mechanics and Rock Engineering 52, 1075-1094](https://link.springer.com/article/10.1007/s00603-018-1607-x)
+- [Q Chen, T Yin. Integration of homogeneous structural region identification and rock mass quality classification (2019). Royal Society Open Science 6 (1), 181353](https://royalsocietypublishing.org/doi/full/10.1098/rsos.181353)
+- [Q Chen, T Yin, F Gao, Y Gao. Meticulous three-dimensional demarcation and separate presentation of statistically homogeneous structural domains within a large-scale jointed rock mass (2020). Geosciences Journal 24, 97-112](https://link.springer.com/article/10.1007/s12303-019-0007-x)
 
