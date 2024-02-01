@@ -72,7 +72,7 @@ I am a fourth-year PhD student in Westlake University, China now, under the supe
 - [T Yin, Q Chen. Simulation-based investigation on the accuracy of discrete fracture network (DFN) representation (2020). Computers and Geotechnics 121, 103487](https://www.sciencedirect.com/science/article/abs/pii/S0266352X20300501)
 
 #### Co-authored publications
-
+- [ Gao X, Tian R, Yin T, Torres SAG, Lei L. Pore-scale freezing of a sandy saline soil visualized with micro-computed tomography. Permafrost and Periglac Process. 2024; 1-16. doi:10.1002/ppp.2215](https://onlinelibrary.wiley.com/doi/10.1002/ppp.2215)
 - [Jiang, Y., Yin, T., Guo, G., Gao, X., Torres, S. A. G., & Lei, L. (2024). Property evaluation by numerical modelling based on voxelized images–Accuracy versus resolution. Computers and Geotechnics, 165, 105887](https://www.sciencedirect.com/science/article/pii/S0266352X23006444)
 - [Q Chen, T Yin. Modification of the rock mass rating system (RMRmbi) considering three-dimensional rock block size (2020). Bulletin of Engineering Geology and the Environment 79 (2), 789-810](https://link.springer.com/article/10.1007/s10064-019-01596-x)
 - [Q Chen, T Yin. Should the use of rock quality designation be discontinued in the rock mass rating system? (2019). Rock Mechanics and Rock Engineering 52, 1075-1094](https://link.springer.com/article/10.1007/s00603-018-1607-x)
