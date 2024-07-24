@@ -41,10 +41,10 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 
 ## Welcome to Tingchang's page
 
-I received my PhD degree from Westlake University, China, under the supervision of [Prof. Sergio Torres](https://en-soe.westlake.edu.cn/OurSchool/Faculty/PI/201912/t20191206_2506.shtml). I am going to KAUST as a postdoctoral researcher.
+I received my PhD degree from Zhejiang University, China, under the supervision of [Prof. Sergio Torres](https://en-soe.westlake.edu.cn/OurSchool/Faculty/PI/201912/t20191206_2506.shtml) at Westlake University. I am going to KAUST as a postdoctoral researcher.
 
 ### Education
-- Sep 2020 - Jun 2024, PhD student in Environmental Science and Engineering, Westlake University, Zhejiang, China (a joint program with Zhejiang University, China)
+- Sep 2020 - Jun 2024, PhD student in Environmental Science and Engineering, Westlake University and Zhejiang University, Zhejiang, China (a joint program)
 - Sep 2017 - Dec 2019, MEng in Mining, Guangxi University, Guangxi, China
 - Sep 2013 - Jun 2017, BEng in Mining, Guangxi University, Guangxi, China
 
@@ -58,6 +58,8 @@ I received my PhD degree from Westlake University, China, under the supervision 
 - Statistics of geological fractures
 - Percolation theory
 - Multiphase multicomponent flow in geological reservoirs
+- CO$_2$ sequestration simulation
+- Finite element method
   
 ### Skills
 - C/C++/CUDA
