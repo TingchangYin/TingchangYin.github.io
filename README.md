@@ -41,7 +41,7 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 
 ## Welcome to Tingchang's page
 
-I received my PhD degree from Zhejiang University, China, under the supervision of [Prof. Sergio Torres](https://en-soe.westlake.edu.cn/OurSchool/Faculty/PI/201912/t20191206_2506.shtml) at Westlake University. I am going to KAUST as a postdoctoral researcher.
+I received my PhD degree from Zhejiang University, China, under the supervision of [Prof. Sergio Torres](https://en-soe.westlake.edu.cn/OurSchool/Faculty/PI/201912/t20191206_2506.shtml) at Westlake University.
 
 ### Education
 - Sep 2020 - Jun 2024, PhD student in Environmental Science and Engineering, Westlake University and Zhejiang University, Zhejiang, China (a joint program)
