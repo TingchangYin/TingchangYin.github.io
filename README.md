@@ -89,3 +89,5 @@ I received my PhD degree from Zhejiang University, China, under the supervision 
 - National Scholarship for Master Students, at Guangxi University, China (2019)
 - Freshmen scholarship, at Westlake University, China (2020)
 - Suwu Scholarship, at Westlake University, China (2023)
+- Excellent postgraduate student's award in Zhejiang University, China (2024)
+- Excellent postgraduate student's award in Zhejiang province, received from Zhejiang Department of Education, China (2024)
