@@ -70,20 +70,19 @@ I received my PhD degree from Zhejiang University, China, under the supervision 
 ### Publications
 
 #### First author publications
+- [T Yin, T Man, P Zhang, SA Galindo-Torres. Péclet‐Number‐Dependent Longitudinal Dispersion in Discrete Fracture Networks (2024). Water Resources Research, 60, e2024WR038437](https://doi.org/10.1029/2024WR038437)
 - [T Yin, T Man, Ling Li, SA Galindo-Torres. Finite-Size Scaling for the Permeability of Discrete Fracture Networks (2023). Geophysical Research Letters, 50, e2022GL100837](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2022GL100837)
 - [T Yin, T Man, SA Galindo-Torres. Universal scaling solution for the connectivity of discrete fracture networks (2022). Physica A: Statistical Mechanics and its Applications 599, 127495](https://www.sciencedirect.com/science/article/abs/pii/S0378437122003557)
 - [T Yin, Q Chen. Simulation-based investigation on the accuracy of discrete fracture network (DFN) representation (2020). Computers and Geotechnics 121, 103487](https://www.sciencedirect.com/science/article/abs/pii/S0266352X20300501)
 
 #### Co-authored publications
-- [ Gao X, Tian R, Yin T, Torres SAG, Lei L. Pore-scale freezing of a sandy saline soil visualized with micro-computed tomography. Permafrost and Periglac Process. 2024; 1-16. doi:10.1002/ppp.2215](https://onlinelibrary.wiley.com/doi/10.1002/ppp.2215)
+- [Tian, R., Yin, T., Tian, Y., Yu, C., Zhou, J., Gao, X., et al. (2024). Understanding heterogeneous and anisotropic porous media based on geometric properties derived from three-dimensional images. Water Resources Research, 60, e2024WR037205](https://doi.org/10.1029/2024WR037205)
+- [Gao X, Tian R, Yin T, Torres SAG, Lei L. Pore-scale freezing of a sandy saline soil visualized with micro-computed tomography. Permafrost and Periglac Process. 2024; 1-16. doi:10.1002/ppp.2215](https://onlinelibrary.wiley.com/doi/10.1002/ppp.2215)
 - [Jiang, Y., Yin, T., Guo, G., Gao, X., Torres, S. A. G., & Lei, L. (2024). Property evaluation by numerical modelling based on voxelized images–Accuracy versus resolution. Computers and Geotechnics, 165, 105887](https://www.sciencedirect.com/science/article/pii/S0266352X23006444)
 - [Q Chen, T Yin. Modification of the rock mass rating system (RMRmbi) considering three-dimensional rock block size (2020). Bulletin of Engineering Geology and the Environment 79 (2), 789-810](https://link.springer.com/article/10.1007/s10064-019-01596-x)
 - [Q Chen, T Yin. Should the use of rock quality designation be discontinued in the rock mass rating system? (2019). Rock Mechanics and Rock Engineering 52, 1075-1094](https://link.springer.com/article/10.1007/s00603-018-1607-x)
 - [Q Chen, T Yin. Integration of homogeneous structural region identification and rock mass quality classification (2019). Royal Society Open Science 6 (1), 181353](https://royalsocietypublishing.org/doi/full/10.1098/rsos.181353)
 - [Q Chen, T Yin, F Gao, Y Gao. Meticulous three-dimensional demarcation and separate presentation of statistically homogeneous structural domains within a large-scale jointed rock mass (2020). Geosciences Journal 24, 97-112](https://link.springer.com/article/10.1007/s12303-019-0007-x)
-
-#### In-review manuscript
-- T Yin, T Man, P Zhang, SA Galindo-Torres. Péclet-number-dependent longitudinal dispersion in discrete fracture networks. Submitted to WRR.
 
 ### Honors and Awards
 - National Scholarship for Master Students, at Guangxi University, China (2019)
