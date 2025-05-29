@@ -44,7 +44,6 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 I received my PhD degree from Zhejiang University, China, under the supervision of [Prof. Sergio Torres](https://en-soe.westlake.edu.cn/OurSchool/Faculty/PI/201912/t20191206_2506.shtml) at Westlake University.
 
 ### Education
-- Oct 2024 - May 2025, Postdoctoral fellow at Westlake University, Zhejiang, China
 - Sep 2020 - Jun 2024, PhD student in Environmental Science and Engineering, Westlake University and Zhejiang University, Zhejiang, China (a joint program)
 - Sep 2017 - Dec 2019, MEng in Mining, Guangxi University, Guangxi, China
 - Sep 2013 - Jun 2017, BEng in Mining, Guangxi University, Guangxi, China
