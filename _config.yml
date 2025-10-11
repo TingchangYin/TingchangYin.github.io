@@ -2,3 +2,8 @@ theme: jekyll-theme-minimal
 title: Tingchang YIN (尹庭昌)
 description: yintingchang@foxmail.com
 logo: "images/MyPhoto.jpeg?raw=true"
+
+social_links:
+  linkedin: "https://www.linkedin.com/in/tingchang-yin-8b548a142/"
+  google_scholar: "https://scholar.google.com/citations?hl=en&user=VXuT0X4AAAAJ&view_op=list_works&sortby=pubdate"
+  orcid: "https://orcid.org/my-orcid?orcid=0000-0002-3079-7976"

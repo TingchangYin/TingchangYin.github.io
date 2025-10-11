@@ -41,28 +41,27 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 
 ## Welcome to Tingchang's page
 
-I received my PhD degree from Zhejiang University, China, under the supervision of [Prof. Sergio Torres](https://en-soe.westlake.edu.cn/OurSchool/Faculty/PI/201912/t20191206_2506.shtml) at Westlake University.
+I am a Postdoctoral Fellow at the Weizmann Institute of Science, working under the guidance of [Brian Berkowitz](https://www.weizmann.ac.il/EPS/Brian/). I received my PhD degree from Zhejiang University, China, under the supervision of [Sergio Torres](https://m3.westlake.edu.cn/) at Westlake University.
 
 ### Education
-- Sep 2020 - Jun 2024, PhD student in Environmental Science and Engineering, Westlake University and Zhejiang University, Zhejiang, China (a joint program)
+- May 2025 - now, Azrieli postdoctoral fellow at the Weizmann Institute of Science
+- Oct 2024 - May 2025, Postdoctoral fellow in Westlake University
+- Sep 2020 - Jun 2024, PhD in Environmental Science and Engineering, Westlake University and Zhejiang University, Zhejiang, China (a joint program)
 - Sep 2017 - Dec 2019, MEng in Mining, Guangxi University, Guangxi, China
-- Sep 2013 - Jun 2017, BEng in Mining, Guangxi University, Guangxi, China
+- Sep 2013 - Jun 2017, BEng in Mineral Resource Engineering, Guangxi University, Guangxi, China
 
 ### Language
 - Mandarin
 - English
 
 ### Research Interests
-- Flow and transport in fractured porous media
+- Flow and solute transport in fractured porous media
 - High performance simulation
 - Statistics of geological fractures
 - Percolation theory
-- Multiphase multicomponent flow in geological reservoirs
-- CO$_2$ sequestration simulation
-- Finite element method
   
 ### Skills
-- C/C++/CUDA
+- C/C++/CUDA/oneAPI
 - Matlab
 - Linux
 - Python
@@ -70,6 +69,7 @@ I received my PhD degree from Zhejiang University, China, under the supervision 
 ### Publications
 
 #### First author publications
+- [T Yin, T Man, P Zhang, SA Galindo-Torres. GPU-accelerated simulation of steady-state flow and particle transport in discrete fracture networks (2025). Applied Computing and Geosciences, 100284](https://www.sciencedirect.com/science/article/pii/S2590197425000667)
 - [T Yin, T Man, P Zhang, SA Galindo-Torres. Péclet‐Number‐Dependent Longitudinal Dispersion in Discrete Fracture Networks (2024). Water Resources Research, 60, e2024WR038437](https://doi.org/10.1029/2024WR038437)
 - [T Yin, T Man, Ling Li, SA Galindo-Torres. Finite-Size Scaling for the Permeability of Discrete Fracture Networks (2023). Geophysical Research Letters, 50, e2022GL100837](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2022GL100837)
 - [T Yin, T Man, SA Galindo-Torres. Universal scaling solution for the connectivity of discrete fracture networks (2022). Physica A: Statistical Mechanics and its Applications 599, 127495](https://www.sciencedirect.com/science/article/abs/pii/S0378437122003557)
@@ -85,8 +85,9 @@ I received my PhD degree from Zhejiang University, China, under the supervision 
 - [Q Chen, T Yin, F Gao, Y Gao. Meticulous three-dimensional demarcation and separate presentation of statistically homogeneous structural domains within a large-scale jointed rock mass (2020). Geosciences Journal 24, 97-112](https://link.springer.com/article/10.1007/s12303-019-0007-x)
 
 ### Honors and Awards
-- National Scholarship for Master Students, at Guangxi University, China (2019)
+- National scholarship for Master Students, at Guangxi University, China (2019)
 - Freshmen scholarship, at Westlake University, China (2020)
-- Suwu Scholarship, at Westlake University, China (2023)
+- Suwu scholarship, at Westlake University, China (2023)
 - Excellent postgraduate student's award in Zhejiang University, China (2024)
 - Excellent postgraduate student's award in Zhejiang province, received from Zhejiang Department of Education, China (2024)
+- Azrieli international postdoctoral fellowship, Israel (2025)
