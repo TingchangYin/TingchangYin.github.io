@@ -41,7 +41,9 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 
 ## Welcome to Tingchang's page
 
-I am a Postdoctoral Fellow at the Weizmann Institute of Science, working under the guidance of [Brian Berkowitz](https://www.weizmann.ac.il/EPS/Brian/). I received my PhD degree from Zhejiang University, China, under the supervision of [Sergio Torres](https://m3.westlake.edu.cn/) at Westlake University.
+I am a Postdoctoral Fellow at the Weizmann Institute of Science, working under the guidance of [Brian Berkowitz](https://www.weizmann.ac.il/EPS/Brian/). I received my PhD degree from Zhejiang University, China, under the supervision of [Sergio Torres](https://m3.westlake.edu.cn/) at Westlake University. I am studying flow and transport in fractured porous media.
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/TingchangYin) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tingchang-yin-8b548a142/) [![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?hl=en&user=VXuT0X4AAAAJ&view_op=list_works&sortby=pubdate) [![ORCID](https://img.shields.io/badge/ORCID-A6CE39?logo=orcid&logoColor=white)](https://orcid.org/my-orcid?orcid=0000-0002-3079-7976) [![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Tingchang-Yin?ev=hdr_xprf) [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/tingchangyin) [![Email](https://img.shields.io/badge/Email-8B89CC?logo=gmail&logoColor=white)](mailto:yintingchang@foxmail.com)
 
 ### Education
 - May 2025 - now, Azrieli postdoctoral fellow at the Weizmann Institute of Science
