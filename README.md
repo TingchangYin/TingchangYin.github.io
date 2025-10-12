@@ -1,47 +1,12 @@
-<!--## Welcome to GitHub Pages
+<div style="display: flex; align-items: center; gap: 20px;">
+  <img width="150" src="images/MyPhoto.jpeg" style="border-radius: 8px;">
+  <div>
+    <h2>Welcome to Tingchang's page</h2>
+    <p>I am a Postdoctoral Fellow at the Weizmann Institute of Science, working under the guidance of <a href="https://www.weizmann.ac.il/EPS/Brian/">Brian Berkowitz</a>. I received my PhD degree from Zhejiang University, China, under the supervision of <a href="https://m3.westlake.edu.cn/)">Sergio Torres</a> at Westlake University. I am studying flow and transport in fractured porous media.</p>
+  </div>
+</div>
 
-You can use the [editor on GitHub](https://github.com/qq1012510777/qq1012510777.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted __rtt
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/qq1012510777/qq1012510777.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
-
-### name
--->
-
-## Welcome to Tingchang's page
-
-I am a Postdoctoral Fellow at the Weizmann Institute of Science, working under the guidance of [Brian Berkowitz](https://www.weizmann.ac.il/EPS/Brian/). I received my PhD degree from Zhejiang University, China, under the supervision of [Sergio Torres](https://m3.westlake.edu.cn/) at Westlake University. I am studying flow and transport in fractured porous media.
+<hr> 
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/TingchangYin) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tingchang-yin-8b548a142/) [![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?hl=en&user=VXuT0X4AAAAJ&view_op=list_works&sortby=pubdate) [![ORCID](https://img.shields.io/badge/ORCID-A6CE39?logo=orcid&logoColor=white)](https://orcid.org/my-orcid?orcid=0000-0002-3079-7976) [![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Tingchang-Yin?ev=hdr_xprf) [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/tingchangyin) [![Email](https://img.shields.io/badge/Email-8B89CC?logo=gmail&logoColor=white)](mailto:yintingchang@foxmail.com)
 
