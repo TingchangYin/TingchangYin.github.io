@@ -34,6 +34,7 @@
 ### Publications
 
 #### First author publications
+- [T Yin, SA Galindo-Torres. Role of critical sets in the permeability of random fracture networks: A percolation scaling perspective (2025). Physical Review Research, 7, 043060](https://journals.aps.org/prresearch/abstract/10.1103/m38d-24dl)
 - [T Yin, T Man, P Zhang, SA Galindo-Torres. GPU-accelerated simulation of steady-state flow and particle transport in discrete fracture networks (2025). Applied Computing and Geosciences, 100284](https://www.sciencedirect.com/science/article/pii/S2590197425000667)
 - [T Yin, T Man, P Zhang, SA Galindo-Torres. Péclet‐Number‐Dependent Longitudinal Dispersion in Discrete Fracture Networks (2024). Water Resources Research, 60, e2024WR038437](https://doi.org/10.1029/2024WR038437)
 - [T Yin, T Man, Ling Li, SA Galindo-Torres. Finite-Size Scaling for the Permeability of Discrete Fracture Networks (2023). Geophysical Research Letters, 50, e2022GL100837](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2022GL100837)
@@ -82,7 +83,7 @@
 <div style="display: flex; align-items: center; gap: 20px; margin-bottom: 20px;">
   <img width="300" src="images/PhD_defence_06052024.jpeg" style="border-radius: 8px;">
   <div>
-    <h2>PhD Defense - June 5, 2024</h2>
+    <h2>PhD Defense - Jun 5, 2024</h2>
     <p>I successfully defended my doctoral dissertation on "Flow and Transport in Fractured Media." The defense committee was chaired by Professor Ling Li from Westlake University, with panel members including Professor Moran Wang from Tsinghua University, Professor Lingzao Zeng from Zhejiang University, Professor Yixiang Gan from The University of Sydney, and Professor Liang Lei from Westlake University.</p>
   </div>
 </div>
