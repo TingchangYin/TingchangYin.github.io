@@ -63,6 +63,13 @@
 - Azrieli international postdoctoral fellowship, Israel (2025)
 
 ### Gallery
+<div style="display: flex; align-items: center; gap: 20px; margin-bottom: 20px;">
+  <img width="300" src="images/Azrieli.jpg" style="border-radius: 8px;">
+  <div> 
+    <h2>Azrieli 2025 International Postdoctoral Cohort Orientation - Nov 5, 2025</h2> 
+    <p>Thanks to the Azrieli Fellows Program, we had a wonderful orientation meeting. I was excited to get to know so many fellows in different fields.</p> 
+    </div>
+</div>
 
 <div style="display: flex; align-items: center; gap: 20px; margin-bottom: 20px;">
   <img width="300" src="images/GroupFunDay_0918_2025.jpg" style="border-radius: 8px;">
