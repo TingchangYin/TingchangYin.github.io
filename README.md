@@ -63,6 +63,15 @@
 - Azrieli international postdoctoral fellowship, Israel (2025)
 
 ### Gallery
+
+<div style="display: flex; align-items: center; gap: 20px; margin-bottom: 20px;">
+  <img width="300" src="images/EGU2026__.jpg" style="border-radius: 8px;">
+  <div> 
+    <h2>EGU2026 - May 6, 2026</h2> 
+    <p>I presented our work on structural controls on diffusion in porous media during EGU2026.</p> 
+    </div>
+</div>
+
 <div style="display: flex; align-items: center; gap: 20px; margin-bottom: 20px;">
   <img width="300" src="images/Azrieli.jpg" style="border-radius: 8px;">
   <div> 
