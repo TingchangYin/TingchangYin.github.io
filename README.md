@@ -65,11 +65,25 @@
 ### Gallery
 
 <div style="display: flex; align-items: center; gap: 20px; margin-bottom: 20px;">
-  <img width="300" src="images/EGU2026__.jpg" style="border-radius: 8px;">
+
+  <div style="display: flex; flex-direction: column; gap: 5px;">
+    <img width="300" src="images/InterPore2026.jpg" style="border-radius: 8px;">
+    <img width="300" src="images/InterPore2026_II.jpg" style="border-radius: 8px;">
+  </div>
+
   <div> 
-    <h2>EGU2026 - May 6, 2026</h2> 
-    <p>I presented our work on structural controls on diffusion in porous media during EGU2026.</p> 
-    </div>
+    <h2>InterPore2026 - May 21, 2026</h2> 
+    <p>I presented our work on structural controls on diffusion in porous media during InterPore2026.</p> 
+  </div>
+
+</div>
+
+<div style="display: flex; align-items: flex-start; gap: 20px; margin-bottom: 20px;">
+  <img width="300" src="images/EGU2026__.jpg" style="display:block; border-radius: 8px;">
+  <div>
+    <h2>EGU2026 - May 6, 2026</h2>
+    <p>I presented our work on structural controls on diffusion in porous media during EGU2026.</p>
+  </div>
 </div>
 
 <div style="display: flex; align-items: center; gap: 20px; margin-bottom: 20px;">
